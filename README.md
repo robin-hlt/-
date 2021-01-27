@@ -1,2 +1,1 @@
-# -
-record the mistakes I have made during my college research
+# -record the mistakes I have made during my college research
